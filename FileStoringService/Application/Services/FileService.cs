@@ -46,16 +46,24 @@ namespace FileStoringService.Application.Services
         Hash = hash,
         Content = content
       };
-      // var respone = тут отправляем requestAnalysis в ручку для прохода по бд и сравнения с нашим хешом и возврата Id
-      //var metadata = new StorageEntity
-      //{
-      //  Id = fileId,
-      //  fileName = request.File.FileName,
-      //  localPath = filePath,
-      //  Hash = hash
-      //};
+      string filePath = null;
+      bool saveToDisk = true;
+      var fileId = Guid.NewGuid();
 
-      //await _repository.AddAsync(metadata);
+      if (saveToDisk)
+      {
+        filePath = await _storage.SaveAsync(new MemoryStream(fileBytes), fileId);
+      }
+      // var respone = тут отправляем requestAnalysis в ручку для прохода по бд и сравнения с нашим хешом и возврата Id
+      var metadata = new StorageEntity
+      {
+        Id = fileId,
+        fileName = request.File.FileName,
+        localPath = filePath,
+        Hash = hash
+      };
+
+      await _repository.AddAsync(metadata);
 
       return new FileUploadResponse { Id = new Guid() };
       

@@ -1,6 +1,7 @@
 ﻿using FileStoringService.Application.Interfaces;
 using FileStoringService.Domain.DTO.Requests;
 using Microsoft.AspNetCore.Mvc;
+using System.Text;
 
 namespace FileStoringService.Api.Controllers
 {
@@ -33,7 +34,8 @@ namespace FileStoringService.Api.Controllers
     public async Task<IActionResult> DownloadForAnalysis(Guid id)
     {
       var content = await _fileService.DownloadAsync(id);
-      return File(content, "text/plain", $"{id}.txt");
+      var result = Encoding.UTF8.GetString(content);
+      return File(result, "text/plain", $"{id}.txt");
     }
   }
 }
