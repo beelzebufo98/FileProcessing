@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "D:\\C#\\FileProcessingSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\domain\\dto\\requests\\fileuploadtoanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\dto\\requests\\fileuploadtoanalysisrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\domain\\dto\\requests\\fileuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\dto\\requests\\fileuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\interfaces\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\application\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\domain\\dto\\responses\\fileuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\dto\\responses\\fileuploadresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\infrastructure\\filestorage\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\filestorage\\localfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\application\\interfaces\\ihashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\application\\interfaces\\ihashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\infrastructure\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\repositories\\storagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\infrastructure\\data\\storageentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\infrastructure\\data\\storageentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\domain\\entities\\storageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\entities\\storageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|d:\\c#\\fileprocessingsolution\\filestoringservice\\domain\\dto\\responses\\fileuploadtoanalysisresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C158E4-0A7D-4C49-82AB-9C215F775D45}|FileStoringService\\FileStoringService.csproj|solutionrelative:filestoringservice\\domain\\dto\\responses\\fileuploadtoanalysisresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9B5BDA1-25FC-4521-AA90-3337260EDE1E}|FileAnalysisService\\FileAnalysisService.csproj|d:\\c#\\fileprocessingsolution\\fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B5BDA1-25FC-4521-AA90-3337260EDE1E}|FileAnalysisService\\FileAnalysisService.csproj|solutionrelative:fileanalysisservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +102,214 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.json",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\appsettings.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T08:08:08.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.Development.json",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\appsettings.Development.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T08:08:03.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Services\\FileService.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Services\\FileService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Services\\FileService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:10:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Services\\HashService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Services\\HashService.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Services\\HashService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Services\\HashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:06:31.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileUploadRequest.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Requests\\FileUploadRequest.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\DTO\\Requests\\FileUploadRequest.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Requests\\FileUploadRequest.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\DTO\\Requests\\FileUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:28:58.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Api\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Api\\Controllers\\FilesController.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Api\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileStoringService\\Api\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:03:13.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileUploadToAnalysisRequest.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Requests\\FileUploadToAnalysisRequest.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\DTO\\Requests\\FileUploadToAnalysisRequest.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Requests\\FileUploadToAnalysisRequest.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\DTO\\Requests\\FileUploadToAnalysisRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:50:18.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUploadResponse.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Responses\\FileUploadResponse.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\DTO\\Responses\\FileUploadResponse.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Responses\\FileUploadResponse.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\DTO\\Responses\\FileUploadResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:30:07.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFileService.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Interfaces\\IFileService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Interfaces\\IFileService.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Interfaces\\IFileService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Interfaces\\IFileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:22:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocalFileStorage.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\FileStorage\\LocalFileStorage.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\FileStorage\\LocalFileStorage.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\FileStorage\\LocalFileStorage.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\FileStorage\\LocalFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:44:57.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IHashService.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Interfaces\\IHashService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Interfaces\\IHashService.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Application\\Interfaces\\IHashService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Interfaces\\IHashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:22:43.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StorageRepository.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\Repositories\\StorageRepository.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Repositories\\StorageRepository.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\Repositories\\StorageRepository.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Repositories\\StorageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:12:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:03:46.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StorageEntityConfiguration.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\Data\\StorageEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Data\\StorageEntityConfiguration.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Infrastructure\\Data\\StorageEntityConfiguration.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Data\\StorageEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:58:16.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StorageEntity.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\Entities\\StorageEntity.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\Entities\\StorageEntity.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\Entities\\StorageEntity.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\Entities\\StorageEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:54:50.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileUploadToAnalysisResponse.cs",
+              "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Responses\\FileUploadToAnalysisResponse.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Domain\\DTO\\Responses\\FileUploadToAnalysisResponse.cs",
+              "ToolTip": "D:\\C#\\FileProcessingSolution\\FileStoringService\\Domain\\DTO\\Responses\\FileUploadToAnalysisResponse.cs",
+              "RelativeToolTip": "FileStoringService\\Domain\\DTO\\Responses\\FileUploadToAnalysisResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:50:33.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\FileAnalysisService\\Program.cs",
               "RelativeDocumentMoniker": "FileAnalysisService\\Program.cs",
@@ -46,12 +317,11 @@
               "RelativeToolTip": "FileAnalysisService\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T13:25:33.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T13:25:33.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\FileProcessingSolution\\ApiGateway\\Program.cs",
               "RelativeDocumentMoniker": "ApiGateway\\Program.cs",

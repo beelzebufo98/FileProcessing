@@ -7,17 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.5" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\Interfaces\" />
-    <Folder Include="Application\Services\" />
-    <Folder Include="Domain\DTO\" />
-    <Folder Include="Domain\Entities\" />
-    <Folder Include="Infrastructure\Data\" />
-    <Folder Include="Infrastructure\Repositories\" />
-    <Folder Include="Infrastructure\FileStorage\" />
     <Folder Include="Storage\" />
   </ItemGroup>
 
